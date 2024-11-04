@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brenroar
-- 👀 I’m interested in artificial intelligence.
-- 🌱 I’m currently learning C++.
+- 👀 I’m interested in Optimization.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on small passion projects.
 - 📫 How to reach me: nguyenbrendon31311@gmail.com
 
