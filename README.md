@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Brenroar
+- 👋 Hi, I’m Brendon Nguyen
 - 👀 I’m interested in Optimization.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on small passion projects.
 - 📫 How to reach me: nguyenbrendon31311@gmail.com
 
